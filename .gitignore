@@ -1,0 +1,9 @@
+*.engname
+logs/*
+.vscode/*
+*.exe
+*.game
+build
+build.bat
+*.dll
+vendor/premake5/*
