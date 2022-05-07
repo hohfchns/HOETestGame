@@ -1,3 +1,6 @@
+![preview](https://user-images.githubusercontent.com/57037334/167254152-78ff67e3-dd15-4d1d-9844-5d1087c7d2ed.gif)
+
+
 # Build instructions
 Clone the repository with a different name, example:
 ```git clone https://github.com/hohfchns/HOETestGame HOETestGame_temp```
